@@ -29,9 +29,15 @@ Transfer the files of the texture pack to your PS4 or Xbox using a USB.
 
 #### Mobile
 
-- [x] In development
+- [ ] In development
 
 ## License
+
+### Checklist
+
+- [ ] Ping Tracker
+- [ ] Minecraft Time Tracker
+- [ ] Toggle Freecam
 
 ### Source Code
 
