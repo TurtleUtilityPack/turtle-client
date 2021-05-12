@@ -36,7 +36,6 @@ In development, if you want to use Turtle Client on mobile at the moment you wil
 ### Checklist
 
 - [ ] Ping Tracker
-- [ ] Minecraft Time Tracker
 - [ ] Toggle Freecam
 
 ### Changelog
