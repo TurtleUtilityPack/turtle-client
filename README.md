@@ -105,10 +105,8 @@ You can find our default stylesheets in `font/css/open-iconic.{css, less, scss, 
 
 ## License
 
-### Icons
+### Source Code
 
-All code (including SVG markup) is under the [MIT License](http://opensource.org/licenses/MIT).
+The source code for Turtle Client will be able to be viewed but not used for your own personal needs. Using any of this source code will get you banned from the Discord Server.
 
-### Fonts
 
-All fonts are under the [SIL Licensed](http://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web).
