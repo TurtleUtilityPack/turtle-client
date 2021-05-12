@@ -29,7 +29,7 @@ Transfer the files of the texture pack to your PS4 or Xbox using a USB.
 
 #### Mobile
 
-- [ ] In development
+In development, if you want to use Turtle Client on mobile at the moment you will need to download V5.
 
 ## License
 
