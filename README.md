@@ -39,6 +39,11 @@ In development, if you want to use Turtle Client on mobile at the moment you wil
 - [ ] Minecraft Time Tracker
 - [ ] Toggle Freecam
 
+### Credits
+
+#### Website: Bari#7835, Helex#1907, yolosb#2223
+#### C++ Client: yolosb#2223
+
 ### Source Code
 
 The source code for Turtle Client will be able to be viewed but not used for your own personal needs. Using any of this source code will get you banned from the Discord Server.
