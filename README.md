@@ -29,7 +29,7 @@ Transfer the files of the texture pack to your PS4 or Xbox using a USB.
 
 #### Mobile
 
-[x] Not Released yet
+- [x] In development
 
 ## License
 
