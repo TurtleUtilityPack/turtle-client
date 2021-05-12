@@ -23,6 +23,10 @@
 
 To download the client on PC you will need to go to the [Turtle Client](https://turtleclient.xyz) website and click the download button. After that you will see the turtle client desktop icon on your desktop. Next click the icon and it should launch minecraft with turtle client already loaded. No need to activate the texture pack. 
 
+#### PS4 & Xbox
+
+Transfer the files of the texture pack to your PS4 or Xbox using a USB.
+
 
 ## License
 
