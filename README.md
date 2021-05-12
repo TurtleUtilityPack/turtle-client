@@ -1,7 +1,7 @@
 [Turtle Client](http://turtleclient.xyz/)
 ===========
 
-### Turtle Client is the Best Client for Minecraft Bedrock Edition, the client comes with mods such as keystrokes, fps counter, cps counter and an FPS booster. You can download the client with a few clicks on the [Turtle Client](https://turtleclient.xyz) website.
+### [Turtle Client](https://turtleclient.xyz) is the Best Client for Minecraft Bedrock Edition, the client comes with mods such as keystrokes, fps counter, cps counter and an FPS booster. You can download the client with a few clicks on the [Turtle Client](https://turtleclient.xyz) website.
 
 
 
