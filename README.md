@@ -43,4 +43,4 @@ In development, if you want to use Turtle Client on mobile at the moment you wil
 
 The source code for Turtle Client will be able to be viewed but not used for your own personal needs. Using any of this source code will get you banned from the Discord Server.
 
-
+##### Made in C++
