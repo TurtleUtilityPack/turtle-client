@@ -39,6 +39,10 @@ In development, if you want to use Turtle Client on mobile at the moment you wil
 - [ ] Minecraft Time Tracker
 - [ ] Toggle Freecam
 
+### Changelog
+
+### - Removed Minecraft Time Tracker from Checklist
+
 ### Credits
 
 #### Website: Bari#7835, Helex#1907, yolosb#2223
