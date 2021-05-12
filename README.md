@@ -41,7 +41,8 @@ In development, if you want to use Turtle Client on mobile at the moment you wil
 
 ### Changelog
 
-### - Removed Minecraft Time Tracker from Checklist
+#### Removed Minecraft Time Tracker from Checklist
+
 
 ### Credits
 
