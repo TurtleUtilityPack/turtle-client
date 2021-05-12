@@ -46,7 +46,7 @@ In development, if you want to use Turtle Client on mobile at the moment you wil
 ### Credits
 
 #### Website: Bari#7835, Helex#1907, yolosb#2223
-#### C++ Client: yolosb#2223
+#### Client Mods: yolosb#2223
 
 ### Source Code
 
