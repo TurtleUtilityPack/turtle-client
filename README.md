@@ -1,7 +1,7 @@
 [Turtle Client](http://turtleclient.xyz/)
 ===========
 
-### Open Iconic is the open source sibling of [Iconic](http://useiconic.com). It is a hyper-legible collection of 223 icons with a tiny footprint&mdash;ready to use with Bootstrap and Foundation. [View the collection](http://useiconic.com/open#icons)
+### Turtle Client is the Best Client for Minecraft Bedrock Edition, the client comes with mods such as keystrokes, fps counter, cps counter and an FPS booster. You can download the client with a few clicks on the [Turtle Client](https://turtleclient.xyz) website.
 
 
 
