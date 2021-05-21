@@ -25,7 +25,7 @@ To download the client on PC you will need to go to the [Turtle Client](https://
 
 #### PS4 & Xbox
 
-Transfer the files of the texture pack to your PS4 or Xbox using a USB.
+First, download the texture packaged version then transfer the files of the texture pack to your PS4 or Xbox using a USB.
 
 #### Mobile
 
