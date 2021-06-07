@@ -9,7 +9,7 @@
 
 <h4 align="center">A feature rich, aesthetically pleasing and FPS boosting client.</h4>
 
-# What's included with Turtle Client?
+# What's included in Turtle Client?
 * FPS Boost
 * Keystrokes 
 * CPS 
@@ -17,7 +17,7 @@
 * Clean & Custom UI
 
 # Installation 
-### We are not responsibile for any harm made to your device whilist installing Turtle Client
+##### We are not responsibile for any harm made to your device whilist installing Turtle Client.
 
 #### PC (Application)
 
