@@ -58,4 +58,5 @@ Copyright (C) 2021 // someone whos 18 lmfao
 #### Website: Bari#7835, skylelo#1907 & ASOwnerYT#0333
 #### PC Application: BIGMACI#0001
 #### Texture Pack: Chixuty#9882
+#### Discord Bot: Bari#7835
 #### ReadMe Format: Hipposuarus#0665
