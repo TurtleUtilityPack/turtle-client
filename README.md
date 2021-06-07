@@ -1,55 +1,61 @@
-[Turtle Client](http://turtleclient.xyz/)
-===========
+<h1 align="center"> 🐢 Turtle Client - A MC:BE client and FPS booster </h1>
+<h4 align="center"> In Development </h4>
+<div align = "center"> 
+  <a href="https://github.com/TurtleUtilityPack/turtle-client/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-license-orange"/> </a>
+  <a href="https://github.com/TurtleUtilityPack/turtle-client/releases"><img src="https://img.shields.io/badge/download-client-brightgreen"/> </a>
+  <a href="https://turtleclient.xyz"><img src="https://img.shields.io/badge/view-website-blue"/> </a>
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://img.shields.io/badge/free-hacks-orange"/> </a>
+</div> 
 
-### [Turtle Client](https://turtleclient.xyz) is the Best Client for Minecraft Bedrock Edition, the client comes with mods such as keystrokes, fps counter, cps counter and an FPS booster. You can download the client with a few clicks on the [Turtle Client](https://turtleclient.xyz) website.
+<h4 align="center">A feature rich, aesthetically pleasing and FPS boosting client.</h4>
 
-
-
-## What's in Turtle Client?
-
-* FPS Booster
-* Keystrokes Mod
-* CPS Mod
+# What's included with Turtle Client?
+* FPS Boost
+* Keystrokes 
+* CPS 
 * FPS Counter
-* Clean UI
-* Custom MCPE UI
+* Clean & Custom UI
 
+# Installation 
+### We are not responsibile for any harm made to your device whilist installing Turtle Client
 
-## Getting Started
+#### PC (Application)
 
-### Downloading the Client
+To download the client on PC you will need to go to [turtleclient.xyz](https://turtleclient.xyz) and click the download button. After that, go through the setup. Then, you will see turtle client's icon on your desktop. Next, click the icon and it should launch mMinecraft with turtle client already loaded in. No need to activate the texture pack. 
 
-#### PC
+#### Console (Texture Pack)
 
-To download the client on PC you will need to go to the [Turtle Client](https://turtleclient.xyz) website and click the download button. After that you will see the turtle client desktop icon on your desktop. Next click the icon and it should launch minecraft with turtle client already loaded. No need to activate the texture pack. 
-
-#### PS4 & Xbox
-
-First, download the texture packaged version then transfer the files of the texture pack to your PS4 or Xbox using a USB.
+Download the texture pack version of the client at [turtleclient.xyz](https://turtleclient.xyz). After that, transfer the files of the texture pack to your PS4 or Xbox using a USB and activate the pack in your global resources.
 
 #### Mobile
 
-In development, if you want to use Turtle Client on mobile at the moment you will need to download V5.
+Download the texture pack version of the client at [turtleclient.xyz](https://turtleclient.xyz). After that, open the .mcpack file and after Minecraft finishes importing Turtle Client, you can activate the pack in your global resources.
 
-## License
+# Issues
+Feel free to create an issue to suggest something or to report a bug.
 
-### Checklist
+# License
+```
+Copyright (C) 2021 // someone whos 18 lmfao
 
-- [ ] Ping Tracker
-- [ ] Toggle Freecam
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU Affero General Public License as
+    published by the Free Software Foundation, either version 3 of the
+    License, or (at your option) any later version.
 
-### Changelog
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU Affero General Public License for more details.
 
-#### Removed Minecraft Time Tracker from Checklist
-
+    You should have received a copy of the GNU Affero General Public License
+    along with this program.  If not, see <https://www.gnu.org/licenses/>.
+```
 
 ### Credits
+##### (Discord usernames)
 
-#### Website: Bari#7835, Helex#1907, vxpesb#0001 & ASOwnerYT#0333
-#### Client Mods: yolosb#2223
-
-### Source Code
-
-The source code for Turtle Client will be able to be viewed but not used for your own personal needs. Using any of this source code will get you banned from the Discord Server.
-
-##### Made in C++
+#### Website: Bari#7835, skylelo#1907 & ASOwnerYT#0333
+#### PC Application: BIGMACI#0001
+#### Texture Pack: Chixuty#9882
+#### ReadMe Format: Hipposuarus#0665
