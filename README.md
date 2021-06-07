@@ -1,7 +1,7 @@
 <h1 align="center"> 🐢 Turtle Client - A MC:BE client and FPS booster </h1>
 <h4 align="center"> In Development </h4>
 <div align = "center"> 
-  <a href="https://github.com/TurtleUtilityPack/turtle-client/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-license-orange?style=for-the-badge"/> </a>
+  <a href="https://github.com/TurtleUtilityPack/turtle-client/blob/main/LICENSE"><img src="https://img.shields.io/github/license/TurtleUtilityPack/turtle-client?style=for-the-badge"/> </a>
   <a href="https://github.com/TurtleUtilityPack/turtle-client/releases"><img src="https://img.shields.io/badge/download-client-brightgreen?style=for-the-badge"/> </a>
   <a href="https://turtleclient.xyz"><img src="https://img.shields.io/badge/view-website-blue?style=for-the-badge"/> </a>
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://img.shields.io/badge/free-hacks-orange?style=for-the-badge"/> </a>
