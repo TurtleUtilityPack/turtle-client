@@ -34,9 +34,9 @@ Download the texture pack version of the client at [turtleclient.xyz](https://tu
 # Issues
 Feel free to create an issue to suggest something or to report a bug.
 
-# License can be found [here](https://github.com/TurtleUtilityPack/turtle-client/blob/main/LICENSE)
+## License can be found [here](https://github.com/TurtleUtilityPack/turtle-client/blob/main/LICENSE)
 
-# Warranty and liability
+## Warranty and liability
 ```
 15. Disclaimer of Warranty.
 
