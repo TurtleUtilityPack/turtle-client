@@ -59,4 +59,5 @@ Copyright (C) 2021 // someone whos 18 lmfao
 #### PC Application: ([@eric48906](https://github.com/eric48906))
 #### Texture Pack: Chixuty#9882 ([@Chixuty](https://github.com/chixuty))
 #### Discord Bot: Bari#7835 ([@BariPlayzYT](https://github.com/bariplayzyt))
+#### Server:  Hipposuarus#0665 ([@HippoBaguette](https://github.com/hippobaguette)), Bari#7835 ([@BariPlayzYT](https://github.com/BariPlayzYT)) & skylelo#1907 ([@Skylelo](https://github.com/skylelo))
 #### ReadMe Format: Hipposuarus#0665 ([@HippoBaguette](https://github.com/hippobaguette))
