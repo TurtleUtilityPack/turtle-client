@@ -56,7 +56,7 @@ Copyright (C) 2021 // someone whos 18 lmfao
 ##### (Discord & GitHub usernames)
 
 #### Website: Bari#7835 (@BariPlayzYT), skylelo#1907 (@Skylelo) & ASOwnerYT#0333 (@ASOwnerYT)
-#### PC Application: BIGMACI#9635 (@eric48906)
+#### PC Application: banned from the discord lmfao (@eric48906)
 #### Texture Pack: Chixuty#9882 (@Chixuty)
 #### Discord Bot: Bari#7835 (@BariPlayzYT)
 #### ReadMe Format: Hipposuarus#0665 (@HippoBaguette)
