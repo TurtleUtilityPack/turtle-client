@@ -6,7 +6,7 @@
   <a href="https://turtleclient.xyz"><img src="https://img.shields.io/badge/view-website-blue?style=for-the-badge"/> </a>
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://img.shields.io/badge/free-hacks-orange?style=for-the-badge"/> </a>
   <br>
-  [<img src="https://discordapp.com/api/guilds/792946262831529995/widget.png?style=shield">](https://discord.gg/jDyEYfB6CG)
+  <a href="https://discord.gg/jDyEYfB6CG"><img src="https://discordapp.com/api/guilds/792946262831529995/widget.png?style=shield"/> </a>
 </div> 
 
 <h4 align="center">A feature rich, aesthetically pleasing and FPS boosting client.</h4>
