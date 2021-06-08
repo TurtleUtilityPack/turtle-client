@@ -36,7 +36,7 @@ Feel free to create an issue to suggest something or to report a bug.
 
 # License
 ```
-Copyright (C) 2021 // someone whos 18 lmfao
+Copyright (C) 2021 Turtle Client
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU Affero General Public License as
