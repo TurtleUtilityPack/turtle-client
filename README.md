@@ -1,3 +1,5 @@
+⚠️ **This project is no longer maintained. Do NOT visit turtleclient.xyz, it is no longer owned by us and leads to malware!** ⚠️
+
 <h1 align="center"> 🐢 Turtle Client - A MC:BE client and FPS booster </h1>
 <h4 align="center"> In Development </h4>
 <div align = "center"> 
