@@ -5,7 +5,7 @@
 <div align = "center"> 
   <a href="https://github.com/TurtleUtilityPack/turtle-client/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-license-orange"/> </a>
   <a href="https://github.com/TurtleUtilityPack/turtle-client/releases"><img src="https://img.shields.io/badge/download-client-brightgreen"/> </a>
-  <a href="https://turtleclient.xyz"><img src="https://img.shields.io/badge/view-website-blue"/> </a>
+  <a href="https://turtleclient.pages.dev"><img src="https://img.shields.io/badge/view-website-blue"/> </a>
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://img.shields.io/badge/free-hacks-orange"/> </a>
 </div> 
 
@@ -23,15 +23,15 @@
 
 #### PC (Application)
 
-To download the client on PC you will need to go to [turtleclient.xyz](https://turtleclient.xyz) and click the download button. After that, go through the setup. Then, you will see turtle client's icon on your desktop. Next, click the icon and it should launch mMinecraft with turtle client already loaded in. No need to activate the texture pack. 
+To download the client on PC you will need to go to [turtleclient.pages.dev](https://turtleclient.pages.dev/) and click the download button. After that, go through the setup. Then, you will see turtle client's icon on your desktop. Next, click the icon and it should launch mMinecraft with turtle client already loaded in. No need to activate the texture pack. 
 
 #### Console (Texture Pack)
 
-Download the texture pack version of the client at [turtleclient.xyz](https://turtleclient.xyz). After that, transfer the files of the texture pack to your PS4 or Xbox using a USB and activate the pack in your global resources.
+Download the texture pack version of the client at [turtleclient.pages.dev](https://turtleclient.pages.dev/). After that, transfer the files of the texture pack to your PS4 or Xbox using a USB and activate the pack in your global resources.
 
 #### Mobile
 
-Download the texture pack version of the client at [turtleclient.xyz](https://turtleclient.xyz). After that, open the .mcpack file and after Minecraft finishes importing Turtle Client, you can activate the pack in your global resources.
+Download the texture pack version of the client at [turtleclient.pages.dev](https://turtleclient.pages.dev/). After that, open the .mcpack file and after Minecraft finishes importing Turtle Client, you can activate the pack in your global resources.
 
 # Issues
 Feel free to create an issue to suggest something or to report a bug.
